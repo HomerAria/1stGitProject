@@ -1,6 +1,3 @@
 # 1stGitProject
-add for test
 
-sdfdd
-
-add on branch
+This is the personal test project for GitHub
